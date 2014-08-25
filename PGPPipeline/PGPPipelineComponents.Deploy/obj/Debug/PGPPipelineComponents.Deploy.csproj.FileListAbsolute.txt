@@ -1,0 +1,12 @@
+C:\Users\mabhyankar\Documents\Visual Studio 2010\Projects\PGPPipeline\PGPPipelineComponents.Deploy\bin\Debug\Deploy.ps1
+C:\Users\mabhyankar\Documents\Visual Studio 2010\Projects\PGPPipeline\PGPPipelineComponents.Deploy\bin\Debug\PGPPipelineComponents.Deploy.dll
+C:\Users\mabhyankar\Documents\Visual Studio 2010\Projects\PGPPipeline\PGPPipelineComponents.Deploy\bin\Debug\PGPPipelineComponents.Deploy.pdb
+C:\Users\mabhyankar\Documents\Visual Studio 2010\Projects\PGPPipeline\PGPPipelineComponents.Deploy\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mabhyankar\Documents\Visual Studio 2010\Projects\PGPPipeline\PGPPipelineComponents.Deploy\bin\Debug\DecryptPGP.dll
+C:\Users\mabhyankar\Documents\Visual Studio 2010\Projects\PGPPipeline\PGPPipelineComponents.Deploy\bin\Debug\EncryptPGP.dll
+C:\Users\mabhyankar\Documents\Visual Studio 2010\Projects\PGPPipeline\PGPPipelineComponents.Deploy\bin\Debug\DecryptPGP.pdb
+C:\Users\mabhyankar\Documents\Visual Studio 2010\Projects\PGPPipeline\PGPPipelineComponents.Deploy\bin\Debug\EncryptPGP.pdb
+C:\Users\mabhyankar\Documents\Visual Studio 2010\Projects\PGPPipeline\PGPPipelineComponents.Deploy\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\mabhyankar\Documents\Visual Studio 2010\Projects\PGPPipeline\PGPPipelineComponents.Deploy\obj\Debug\PGPPipelineComponents.Deploy.csprojResolveAssemblyReference.cache
+C:\Users\mabhyankar\Documents\Visual Studio 2010\Projects\PGPPipeline\PGPPipelineComponents.Deploy\obj\Debug\PGPPipelineComponents.Deploy.dll
+C:\Users\mabhyankar\Documents\Visual Studio 2010\Projects\PGPPipeline\PGPPipelineComponents.Deploy\obj\Debug\PGPPipelineComponents.Deploy.pdb
